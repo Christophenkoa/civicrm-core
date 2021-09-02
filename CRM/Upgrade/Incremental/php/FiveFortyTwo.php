@@ -16,7 +16,7 @@ class CRM_Upgrade_Incremental_php_FiveFortyTwo extends CRM_Upgrade_Incremental_B
   /**
    * Upgrade function.
    *
-   * @param string $rev
+   * @param string  $rev
    */
   public function upgrade_5_42_alpha1($rev) {
     $this->addTask('Add currency to Membership Type minimum fee',
