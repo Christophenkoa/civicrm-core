@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Civi" isTestSource="false" packagePrefix="Civi\" />
+      <sourceFolder url="file://$MODULE_DIR$/setup/src" isTestSource="false" packagePrefix="Civi\" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="Civi\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/phpunit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

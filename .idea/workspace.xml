@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f93c9c-15cc-42c7-b1e0-e15450348b9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wpNiF5p2EryhKuE56IIC3TqR1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CRM/Upgrade/Incremental/php" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f93c9c-15cc-42c7-b1e0-e15450348b9e" name="Default Changelist" comment="" />
+      <created>1629151694774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629151694774</updated>
+      <workItem from="1629151697129" duration="3071000" />
+      <workItem from="1629244156121" duration="691000" />
+      <workItem from="1629246891852" duration="7905000" />
+      <workItem from="1629290475374" duration="7619000" />
+      <workItem from="1629560133295" duration="673000" />
+      <workItem from="1629668739361" duration="16295000" />
+      <workItem from="1629736832939" duration="609000" />
+      <workItem from="1629958256674" duration="4990000" />
+      <workItem from="1630508304190" duration="9324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="128" width="424" height="484" key="FileChooserDialogImpl" timestamp="1629735347075">
+      <screen x="0" y="27" width="1366" height="688" />
+    </state>
+    <state x="466" y="128" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.688@0.27.1366.688" timestamp="1629735347075" />
+    <state x="369" y="183" width="617" height="373" key="NewPhpClassDialog" timestamp="1629735650721">
+      <screen x="0" y="27" width="1366" height="688" />
+    </state>
+    <state x="369" y="183" width="617" height="373" key="NewPhpClassDialog/0.27.1366.688@0.27.1366.688" timestamp="1629735650721" />
+    <state x="478" y="295" width="399" height="149" key="NewPhpFileDialog" timestamp="1629960215302">
+      <screen x="0" y="27" width="1366" height="688" />
+    </state>
+    <state x="478" y="295" width="399" height="149" key="NewPhpFileDialog/0.27.1366.688@0.27.1366.688" timestamp="1629960215302" />
+    <state x="339" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1629836303404">
+      <screen x="0" y="27" width="1366" height="688" />
+    </state>
+    <state x="339" y="198" key="com.intellij.ide.util.TipDialog/0.27.1366.688@0.27.1366.688" timestamp="1629836303404" />
+  </component>
+</project>
